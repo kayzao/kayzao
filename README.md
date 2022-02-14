@@ -1,5 +1,3 @@
-currently moving my account from kzhao31 to this
-
 in stuyvesant high school, in robotics and nextCS
 
 i know some java and some python and some html
