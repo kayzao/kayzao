@@ -6,6 +6,8 @@ Reach me on Discord: t1rbr#1655
 
 [![t1rbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1rbr)](https://github.com/t1rbr/github-readme-stats)
 
+[![t1rbr's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=t1rbr)]()
+
 I know some java, python, and html.
 
 <!---
