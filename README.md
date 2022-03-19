@@ -8,7 +8,7 @@ Reach me on Discord: t1rbr#1655
 
 [![t1rbr's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=t1rbr)]()
 
-I know some java, python, and html.
+I know some Java (Processing as well), Python, and HTML.
 
 <!---
 t1rbr/t1rbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
