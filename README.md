@@ -1,9 +1,6 @@
-Currently attending Purdue University's College of Science with an intent to major in Computer Science.
-
-Graduated Stuyvesant High School in 2023
-
-Alum of StuyPulse (IT)
-
+- Graduated Stuyvesant High School in 2023
+- Alum of StuyPulse (IT)
+- Currently attending Purdue University's College of Science with an intent to major in Computer Science.
 
 I code primarily in Java, but I can do JavaScript (Node), Python, etc.
 
