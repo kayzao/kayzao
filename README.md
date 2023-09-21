@@ -1,6 +1,7 @@
-- Graduated Stuyvesant High School in 2023
-- Alum of StuyPulse (IT)
+- Member of Purdue Aerial Robotics Team, Autonomous Robotics Club at Purdue and Robomasters at Purdue
 - Currently attending Purdue University's College of Science with an intent to major in Computer Science.
+- Graduated Stuyvesant High School in 2023
+- Alum of FRC Robotics team StuyPulse (IT)
 
 I code primarily in Java, but I can do JavaScript (Node), Python, etc.
 
