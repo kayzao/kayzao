@@ -1,5 +1,5 @@
 - Member of Purdue Aerial Robotics Team, Autonomous Robotics Club at Purdue and Robomasters at Purdue
-- Currently attending Purdue University's College of Science with an intent to major in Computer Science.
+- Currently attending Purdue University as a Computer Science undergraduate
 - Graduated Stuyvesant High School in 2023
 - Alum of FRC Robotics team StuyPulse (IT)
 
