@@ -1,9 +1,7 @@
 
-# good morning
+# hi
 
-or good night, or whatever time it happens to be where you are, im kelvin, and im a  
-
-<h3 align="center">✨Purdue University Computer Science undergrad wow✨</h3>
+<h3 align="center">✨Purdue University Computer Scientist✨</h3>
 
 ### Who I am:
 
@@ -13,9 +11,11 @@ or good night, or whatever time it happens to be where you are, im kelvin, and i
 - Alum of FRC Robotics team StuyPulse (IT)
 
 ### Stuff I'm doing:
-- Working on: **using NYC Open Data datasets**. <p>because urbanism is cool so might as well analyze the only city in the US that gets it at least partially right :DDD
-- CS18000 Object-Oriented Programming
+- Working on: using React to design some websites
+- machine learning with python!
+- using data science to look at NYC
 
+  
 <h3 align="left">socials:</h3>
 <p align="left">
 <a href="https://twitter.com/kkay_zedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkay_zedd" height="30" width="40" /></a>
