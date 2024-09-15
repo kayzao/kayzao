@@ -23,8 +23,4 @@
 <a href="https://instagram.com/kkay_zedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkay_zedd" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayzao&show_icons=true&locale=en&theme=tokyonight" alt="kayzao" /></p>
 
-![kayzao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayzao&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kayzao&theme=material-palenight)](https://git.io/streak-stats)
