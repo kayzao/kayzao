@@ -1,19 +1,8 @@
 
-# hi
+## Who I am:
 
-<h3 align="center">✨Purdue University Computer Scientist✨</h3>
-
-### Who I am:
-
-- Member of Purdue Aerial Robotics Team, Autonomous Robotics Club at Purdue and Robomasters at Purdue
-- Currently attending Purdue University as a Computer Science undergraduate
-- Graduated Stuyvesant High School in 2023
-- Alum of FRC Robotics team StuyPulse (IT)
-
-### Stuff I'm doing:
-- Working on: using React to design some websites
-- machine learning with python!
-- using data science to look at NYC
+- Computer Science Junior at Purdue Univeristy
+- Software Engineer, doing stuff because its cool
 
   
 <h3 align="left">socials:</h3>
